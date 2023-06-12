@@ -10,7 +10,7 @@
   <img alt="Code Time" src="https://wakatime.com/badge/user/49a60900-ce3f-4fc0-8af7-96d5d8a4b6d6.svg" />
 </p>
 
-Hey <img src="https://raw.githubusercontent.com/danielpaz98/danielpaz98/master/wave.gif" width="30">, I'm Daniel.
+Hey <img src="https://raw.githubusercontent.com/danielpaz98/danielpaz98/master/wave.gif" width="30">, I'm Alex.
 =======================
 > <p> A Frontend Developer based in Cali, Colombia <img src="https://camo.githubusercontent.com/5ddfd237294b9f5ee4b4509e9d3fc5a14c0852acb492cf98fce130b485ee0393/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f466c61675f6f665f436f6c6f6d6269612e737667" width="16" height="12" alt="Flag Colombia" /> <br />
 > I am always eager to learn new technologies 💻 and develop new projects. </p>
