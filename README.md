@@ -12,7 +12,7 @@
 
 Hey <img src="https://raw.githubusercontent.com/danielpaz98/danielpaz98/master/wave.gif" width="30">, I'm Alex.
 =======================
-> <p> A Frontend Developer based in Cali, Colombia <img src="https://camo.githubusercontent.com/5ddfd237294b9f5ee4b4509e9d3fc5a14c0852acb492cf98fce130b485ee0393/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f466c61675f6f665f436f6c6f6d6269612e737667" width="16" height="12" alt="Flag Colombia" /> <br />
+> <p> A Frontend Developer based in Cali, Colombia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/800px-Flag_of_Colombia.svg.png" width="16" height="12" alt="Flag Colombia" /> <br />
 > I am always eager to learn new technologies 💻 and develop new projects. </p>
 
 ### Languages
@@ -28,8 +28,8 @@ Hey <img src="https://raw.githubusercontent.com/danielpaz98/danielpaz98/master/w
 ### Technologies
 - - - -
  <p align="center">
-<!--     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> -->
-<!--     <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
