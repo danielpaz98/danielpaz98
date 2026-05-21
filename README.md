@@ -12,7 +12,7 @@
 
 Hey <img src="https://raw.githubusercontent.com/danielpaz98/danielpaz98/master/wave.gif" width="30">, I'm Alex.
 =======================
-> <p> A Frontend Developer based in Cali, Colombia <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" width="16" height="12" alt="Flag Colombia" /> <br />
+> <p> A Frontend Developer based in Cali, Colombia <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" width="16" alt="Flag Colombia" /> <br />
 > I am always eager to learn new technologies 💻 and develop new projects. </p>
 
 ### Languages
