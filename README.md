@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  My main tech stack is
+  My main tech stack is&nbsp;
 
   <sub>
     <img
