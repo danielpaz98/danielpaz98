@@ -21,16 +21,14 @@
 <p align="center">
   My main tech stack is&nbsp;
 
-  <a href="https://react.dev">
-    <sub>
-      <img
-        src="https://skillicons.dev/icons?i=react"
-        height="20"
-        title="React.js"
-        alt="React.js"
-      />
-    </sub>
-  </a>
+  <sub>
+    <img
+      src="https://skillicons.dev/icons?i=react"
+      height="20"
+      title="React.js"
+      alt="React.js"
+    />
+  </sub>
 
   <sub>
     <img
