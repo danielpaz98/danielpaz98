@@ -19,41 +19,49 @@
 </p>
 
 <p align="center">
-  My main tech stack is
+  My main tech stack is&nbsp;
 
   <sub>
-    <img
-      src="https://skillicons.dev/icons?i=react"
-      height="20"
-      title="React.js"
-      alt="React.js"
-    />
+     <sub>
+       <img
+         src="https://skillicons.dev/icons?i=react"
+         height="20"
+         title="React.js"
+         alt="React.js"
+       />
+     </sub>
   </sub>
 
   <sub>
-    <img
-      src="https://skillicons.dev/icons?i=nextjs"
-      height="20"
-      title="Next.js"
-      alt="Next.js"
-    />
+     <sub>
+       <img
+         src="https://skillicons.dev/icons?i=nextjs"
+         height="20"
+         title="Next.js"
+         alt="Next.js"
+       />
+     </sub>
   </sub>
 
   <sub>
-    <img
-      src="https://skillicons.dev/icons?i=ts"
-      height="20"
-      title="TypeScript"
-      alt="TypeScript"
-    />
+     <sub>
+       <img
+         src="https://skillicons.dev/icons?i=ts"
+         height="20"
+         title="TypeScript"
+         alt="TypeScript"
+       />
+     </sub>
   </sub>
 
   <sub>
-    <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      height="20"
-      title="Tailwind CSS"
-      alt="Tailwind CSS"
-    />
+     <sub>
+       <img
+         src="https://skillicons.dev/icons?i=tailwind"
+         height="20"
+         title="Tailwind CSS"
+         alt="Tailwind CSS"
+       />
+     </sub>
   </sub>.
 </p>
